@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 2
+date: 2000-01-01
+img: energy_sketch.jpeg
+alt: alt-text
+title: Real-time balancing and redispatching platform for EU interconnected energy grids
+project-date: 2017
+client: FutureFlow | SAP
+role: Development Lead
+description: undefined
+achievements: <> Developed a real-time event-driven cloud platform for optimizing EU cross-border energy transfers.
+appreciations: appr-ff-1.png|lnkd-sap-1.png
+---

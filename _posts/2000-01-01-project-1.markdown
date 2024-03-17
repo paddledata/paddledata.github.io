@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 1
+date: 2000-01-01
+img: railway_track_measure_sketch.jpeg
+alt: alt-text
+title: Predictive maintenance based on track geometry measurements
+project-date: 2015
+client: (Leading railway operator in Germany) | SAP
+role: Data Scientist
+description: undefined
+achievements: <> Coordinated the technical requirements gathering, validation and refinement.<br><br><> Developed the key technical components of the solution:<ul><li>the data integration adapter for binary data (originating from linear track geometry measurements)</li><li>the offset-optimized alignment solution (that allowed matching measurements to real-world geometry)</li><li>the predictive component (indicating the expected time-to-failure and the confidence intervals)</li></ul>
+appreciations: appr-sap-2.png|appr-sap-3.png
+---

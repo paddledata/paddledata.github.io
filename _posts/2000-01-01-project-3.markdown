@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 3
+date: 2000-01-01
+img: railway_sketch.jpeg
+alt: alt-text
+title: Integrated forecasting and optimization planning for railways
+project-date: 2018
+client: (Large railways operator in Central Asia) | SAP
+role: Development Lead & Data Architect
+description: Engaged as a lead architect, I was responsible for the framing, estimation and successful technical delivery of a large-scale solution supporting the mid- and short-term planning of cargo railway operations. Our solution was developed greendfield, based on the SAP HANA platform (including modules for machine learning - forecasting, optimization, and big data processing). I was responsible for the technical design, monitoring and delivery of the solution, having a dedicated team of 12 contributors - including DB, backend developers, frontend developers, business analysts and UX designers. The project was delivered in ~5000 person-days, within the agreed-upon milestones and with minimal effort overruns justified by the technical complexities discovered during implementation that needed to be addressed.
+achievements: <> I kicked off the technical design of the main building blocks of the solution in a climate of wide organizational uncertainties, lack of clearly measurable milestones as well as novel business processes that had to be introduced. In this context, I managed to envision a technical design which was modular, suitable for incremental development with measurable milestones and permissive of feedback loops for discovery, prototyping and validation.<br><br><> I succesfully delivered module, data flow, integration and process diagrams to audiences ranging from integration engineers to C-level members.<br><br><> I implemented the prototypes for the key technical blocks of the system, which were then taken over by the team and integrated into the technical foundations of the solution - demand management, demand forecasting, loaded wagon traffic disaggregation, empty wagon traffic optimization, tariff calculation and traffic routing optimization. I did this without having a previous background in railways or railway planning but, with passion, attention to detail and diligency I managed to gain a great deal of domain knowledge in the process.<br><br><> I ran the technico-economical feasibility analysis by prototyping several technical solutions for a mathematical constraint optimization solver required by the empty wagon traffic optimization module. My recommendation was adopted and proved highly reliabile ever since.<br><br><> I was involved in debugging and optimizing key parts of the implementation, including data (re)modeling and query planning optimization for a large-scale simulation process implemented in SAP HANA SqlScript (equivalent to PL-SQL).
+appreciations: lnkd-ktz-2.png|appr-ktz-1.png|lnkd-ktz-1.png|appr-ktz-2.png|appr-ktz-3.png|appr-ktz-4.png
+---

@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 7
+date: 2000-01-01
+img: real_estate_sketch.jpeg
+alt: alt-text
+title: Reconcile the property equity ownership ledger with data quality gates
+project-date: 2023
+client: (Canadian Homeownership-As-A-Service / Leading startup)
+role: Analytics Engineer
+description: A spotlight startup combined real-estate and fintech to create a platform for homeowners to co-own equity in the building suites in which they are tenants - a fusion product offering between traditional ownership and renting, with components of a financial product behind the scenes. Due to accelerated growth, the system-of-record and the financial statements were tracked separately, thus leading to a "reconciliation nightmare". My engagement was, through understanding the business and levering my financial engineering experience, to iteratively introduce adjustments to transactional records (virtual transaction elements, as invoice line items or property valuations), regenerate the ledger and reconcile the equity positions vs. the financial reports (as ultimate source of truth).
+achievements: <> I played a leading role in collecting the details and refining the approach by which to run the reconciliation, including objectives and milestones. This helped channel and contain the efforts when further unknowns and complexities were encountered along the way.<br><br><> I expended an initial amount of effort to define data quality expectations and tests. Despite the initial lack of management support, this approach helped understand the starting point and greatly aided throughout the refactorization / master data management process.<br><br><> I unconvered business process aspects which were not accurately represented in the data model and led to inconsistencies and non-determinism in reporting. Additionally, I suggested data model improvements (creation of new data links) to materialize relationships that previously had to be calculated, inconsistently and repeatedly, in the application logic. I supported the product team understand the gaps and their impact, further planning for implemenation to improve the functional correctness of the product.<br><br><> I achieved 100% reconciliation match by adding a minimal number of historical virtual transaction items. All deviations and additions were documented, traced and audited.
+---

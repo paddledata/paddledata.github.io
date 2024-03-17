@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 4
+date: 2000-01-01
+img: pharma_sketch.jpeg
+alt: alt-text
+title: Greenfield supply-chain management product for batch release in pharma.
+project-date: 2020
+client: (3 of Top-5 Big Pharma players) | SAP
+role: Data Architect
+description: SAP created a greenfield product to address the slow, unreliable and risky supply chain process of batch release required in the highly-regulated pharmaceutical sector. As a data architect, I collaborated with application architects and engaged key stakeholders to create conceptual and logical designs through workshops. I then oversaw the implementation of essential data model components, validation architecture, and documentation.
+achievements: <> I led the data modeling and physical implementation for a large part of the core application and its integrations. I managed to strike an optimal balance between generality (as measured by extensibility and adaptability) and specificity (as measured by well-defined entities and strongly enforced relationship, while avoiding "gold plating"), as proven by the stability of the model in time, across several product iterations.
+appreciations: appr-sap-1.png
+---

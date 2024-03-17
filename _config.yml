@@ -1,0 +1,87 @@
+# Site settings
+title: Paddle Data Consulting
+email: paddledatacon@gmail.com
+url: https://paddledata.github.io
+description: "Robust experience with big data, analytics & reactive systems. Experience across business (domain modelling) and application (data architecture, integration). Pragmatic problem solver and getting-things-done'er. Everyday learner. Complexity simplifier."
+keywords: "data consultant, data architect, data engineer, data modeling, data warehouse"
+skills: "Data architecture | Data engineering | Data modeling | Data warehousing"
+meta_author: Paddle Data Consulting LLC
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: ''
+  location: Working across
+  social: Get in touch
+  legal: Legal
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    fa-class: fa-brands
+    fa-icon: twitter
+    url: https://twitter.com/lucimoldovanu
+  # - title: facebook
+  #   url:
+  # - title: stack-overflow
+  #   url: 
+  # - title: bitbucket
+  #   url: 
+  # - title: github
+  #   fa-class: fa-brands
+  #   fa-icon: github
+  #   url:
+  # - title: whatsapp
+  #   fa-class: fa-brands
+  #   fa-icon: whatsapp
+  #   url: https://wa.me/40758361477
+  - title: calendar-plus #LM: forced this name in order to automatically match with FontAwesome library name
+    fa-class: fa-regular
+    fa-icon: calendar-plus
+    url: https://calendly.com/lucian-moldovanu/30min
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: US & Canada
+  - line: Europe
+  - line: Middle East
+
+# Legal contact content
+legal:
+  - line: Paddle Data Consulting LLC
+  - line: US
+  - line: "(+1)505-444-6116" 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""

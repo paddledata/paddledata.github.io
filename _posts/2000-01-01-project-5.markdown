@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 5
+date: 2000-01-01
+img: digitalmarkets_sketch.jpeg
+alt: alt-text
+title: Define framework for analytics engineering and kick off first data products
+project-date: 2022
+client: (Leading platform for software and services marketing / Large Enterprise) | Toptal
+role: Lead Analytics Engineer
+description: I was engaged as an early founding member of the Analytics Engineering team. The team was kicked off in order to centralize the preparation and modeling of data assets across several departments and lines of business of the enterprise. I played a leading role in key aspects including<br><> Defining workflows for the team in alignment with enterprise stakeholders and documenting them as development guidelines<br><> Evaluating key technical decisions and documenting the key ones in architecture decision records (ADRs)<br><> Implementing several key data products<br><> Defining/refining the framework for data quality (what tests to be run, at which level, how to observe and react on failures)
+achievements: <> I created a consistent and coherent set of development processes and guidelines for the Analytics Engineering team<br><br><> By having a proactive and results-oriented approach, I unlocked key discussions between business stakeholders (data consumers + enterprise architecture) and managed to create the first enterprise-wide models in the vendor domain, a critical one for business.<br><br><> I improved the quality in the codebase through code reviews by providing extensive feedback for improvement or stopping initiatives which degraded the readability / maintainability of the codebase.<br><br><> I proposed and created an automation tool (code generation) for Analytics Engineering team which supported a consistent and predictable definition of the staging layer. This tool harmonized the staging layer structure across the team and they key parts of it were later integrated into CICD.<br><br><> I proposed and created several automation tools around DBT in the area of documentation management (including two-way synchronization with external data catalogs for data discoverability, enforcement of consistency of model and column documentation based on data lineage, automatic pushing of documentation and contraints to Snowflake for easy retrieval by analysts).
+---

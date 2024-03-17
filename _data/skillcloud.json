@@ -1,0 +1,146 @@
+[
+    {
+        "text": "Master Data Management (MDM)",
+        "size": 32.5
+    },
+    {
+        "text": "BA",
+        "size": 77.5
+    },
+    {
+        "text": "DBT",
+        "size": 77.5
+    },
+    {
+        "text": "PostgreSQL",
+        "size": 32.5
+    },
+    {
+        "text": "Knex.js",
+        "size": 32.5
+    },
+    {
+        "text": "Fintech",
+        "size": 32.5
+    },
+    {
+        "text": "Real-estate",
+        "size": 32.5
+    },
+    {
+        "text": "Data Engineering",
+        "size": 32.5
+    },
+    {
+        "text": "Data Modeling",
+        "size": 100
+    },
+    {
+        "text": "Data Warehouse",
+        "size": 77.5
+    },
+    {
+        "text": "Data Architecture",
+        "size": 55
+    },
+    {
+        "text": "SQL",
+        "size": 77.5
+    },
+    {
+        "text": "Snowflake",
+        "size": 55
+    },
+    {
+        "text": "Airbyte",
+        "size": 32.5
+    },
+    {
+        "text": "Python",
+        "size": 77.5
+    },
+    {
+        "text": "Hubspot",
+        "size": 32.5
+    },
+    {
+        "text": "Technology",
+        "size": 55
+    },
+    {
+        "text": "Financial Services",
+        "size": 32.5
+    },
+    {
+        "text": "Communication",
+        "size": 32.5
+    },
+    {
+        "text": "Leadership",
+        "size": 77.5
+    },
+    {
+        "text": "Ataccama",
+        "size": 32.5
+    },
+    {
+        "text": "Machine Learning",
+        "size": 55
+    },
+    {
+        "text": "SAP Business Technology Platform",
+        "size": 32.5
+    },
+    {
+        "text": "SAP Cloud Application Programming (CAP)",
+        "size": 32.5
+    },
+    {
+        "text": "NodeJS",
+        "size": 77.5
+    },
+    {
+        "text": "Life Sciences",
+        "size": 32.5
+    },
+    {
+        "text": "SAP HANA",
+        "size": 77.5
+    },
+    {
+        "text": "Transportation",
+        "size": 55
+    },
+    {
+        "text": "Logistics",
+        "size": 32.5
+    },
+    {
+        "text": "Electricity network operations",
+        "size": 32.5
+    },
+    {
+        "text": "Eclipse Mosquitto MQTT Broker",
+        "size": 32.5
+    },
+    {
+        "text": "Utilities",
+        "size": 32.5
+    },
+    {
+        "text": "Energy",
+        "size": 32.5
+    },
+    {
+        "text": "Sustainability",
+        "size": 32.5
+    },
+    {
+        "text": "Requirements Collection",
+        "size": 32.5
+    },
+    {
+        "text": "Railways",
+        "size": 32.5
+    }
+]

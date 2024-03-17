@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 6
+date: 2000-01-01
+img: cloud_sketch.jpeg
+alt: alt-text
+title: Design & implement greenfield infrastructure for analytics and reporting
+project-date: 2022
+client: (Leading cloud-native DBaaS / Series-A startup) | Toptal
+role: Founding Data Engineer
+description: As a startup in the database-as-a-service space, my client was keen to find answers to key business questions ranging from customer journey (funnel/retention) to usage and cost profitability. There was no analytics infrastructure in place, so I started as a team-of-one from a greenfield Snowflake account and a tentative decision to use Airbyte open-source for the ELT layer. Reporting to the product manager, I was involved with understanding the business domain, creating and refining the data models, engineering the data integration pipelines and creating a reasonable governance to ensure reliability and data quality.
+achievements: <> I increased resiliency of data pipelines using data profiling/data monitoring, which helped achieve KPI of 8-hour resolution for critical issues.<br><br><> I defined the business domains and created a hierarchical structure in which the entities were modeled at increasing levels of granularity using DBT - as base, intermediate and mart layers. The structure was generally stable throughout the subsequent steps of my engagement, proving a well-thought design.
+---

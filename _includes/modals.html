@@ -1,0 +1,80 @@
+<!-- Portfolio Modals -->
+{% for post in site.posts %}
+<div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content">
+    <div class="container">
+      <div class="row">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <h2>{{ post.title }}</h2>
+        <hr class="star-primary">
+      </div>
+
+      <div class="row">
+        <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+      </div>
+
+      <div class="row">
+        <ul class="list-inline item-details">
+          {% if post.client %}
+          <li>Client:
+            <strong>{{ post.client }}</strong>
+          </li>
+          {% endif %}
+          {% if post.project-date %}
+          <li>Started:
+            <strong>{{ post.project-date }}</strong>
+          </li>
+          {% endif %}
+          {% if post.role %}
+          <li>Role:
+            <strong>{{ post.role }}</strong>
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+      
+      {% if post.description %}
+      <div class="row align_justified">
+        <h3>Description</h2>
+        <p>{{ post.description }}</p>
+      </div>
+      {% endif %}
+
+      {% if post.achievements %}
+      <div class="row align_justified">
+        <h3>Achievements</h2>
+        <p>{{ post.achievements }}</p>
+      </div>
+      {% endif %}
+
+      {% if post.appreciations %}
+      <div class="row align_justified">
+        <h3>Appreciations</h2>
+          {% assign apprs = post.appreciations | split:'|' %}
+          <div style="display:flex;flex-wrap:wrap;width:1400px">
+            {% for appr in apprs %}
+            <div>
+              <img src="img/appreciate/{{ appr }}" style="width:700px">
+            </div>
+            {% endfor %}
+          </div>
+      </div>
+      {% endif %}
+
+      <div class="row">
+        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
+          Close
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}

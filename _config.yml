@@ -2,7 +2,7 @@
 title: Paddle Data Consulting
 email: paddledatacon@gmail.com
 url: https://paddledata.github.io
-description: "Robust experience with big data, analytics & reactive systems. Experience across business (domain modelling) and application (data architecture, integration). Pragmatic problem solver and getting-things-done'er. Everyday learner. Complexity simplifier. <br> <a href='https://medium.com/@paddledatacon'>Read my blog on Medium.com</a>"
+description: "Robust experience with big data, analytics & reactive systems. Experience across business (domain modelling) and application (data architecture, integration). Pragmatic problem solver and getting-things-done'er. Everyday learner. Complexity simplifier."
 keywords: "data consultant, data architect, data engineer, data modeling, data warehouse"
 skills: "Data architecture | Data engineering | Data modeling | Data warehousing"
 meta_author: Paddle Data Consulting LLC
@@ -61,7 +61,10 @@ social:
     fa-class: fa-regular
     fa-icon: calendar-plus
     url: https://calendly.com/lucian-moldovanu/30min
-
+  - title: medium
+    fa-class: fa-brands
+    fa-icon: medium
+    url: https://medium.com/@paddledatacon
 # Postal address (add as many lines as necessary)
 address:
   - line: US & Canada
